@@ -4,6 +4,12 @@ Bucket List Tracker APP. Allows for basic CRUD features. (Create, Retrieve, Upda
 Running Instructions-
   1. Download BucketListAPP.ZIP
   2. Run file - "LoginUI.java" file located in the "cs444myBucketList.presentation package". (Image shown below)
+  3. Once in the Login UI, create an account and add bucket list Items.
+ 
+Notes:
+  1.This being a school project, the bucket list items will not be saved if the program in terminated. 
+  2. Project is not being maintained any further so no additional features were added. 
+  
   
 ![image](https://user-images.githubusercontent.com/51094689/59796447-c046e000-929a-11e9-9526-3de4d3aeecd4.png)
 
