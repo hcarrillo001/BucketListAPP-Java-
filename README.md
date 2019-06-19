@@ -6,9 +6,12 @@ Running Instructions-
   2. Run file - "LoginUI.java" file located in the "cs444myBucketList.presentation package". (Image shown below)
   3. Once in the Login UI, create an account and add bucket list Items.
  
+Design:
+  1. Model View Controller Design
+ 
 Notes:
 
-  1.This being a school project, the bucket list items will not be saved if the program in terminated. 
+   1.This being a school project, the bucket list items will not be saved if the program in terminated. 
   
   2. Project is not being maintained any further so no additional features were added. 
   
