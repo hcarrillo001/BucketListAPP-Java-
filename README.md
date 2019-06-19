@@ -7,7 +7,9 @@ Running Instructions-
   3. Once in the Login UI, create an account and add bucket list Items.
  
 Notes:
+
   1.This being a school project, the bucket list items will not be saved if the program in terminated. 
+  
   2. Project is not being maintained any further so no additional features were added. 
   
   
